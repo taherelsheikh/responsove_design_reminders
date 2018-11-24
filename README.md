@@ -23,3 +23,12 @@ h1 {
 }
 
 ```
+
+# min and max
+```css
+p {
+  min-width: 200px;
+   min-height: 200px;
+
+}
+```
